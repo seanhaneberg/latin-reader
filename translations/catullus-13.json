@@ -1,0 +1,15 @@
+{
+    "name": "Gai Valeri Catulli Liber XIII",
+    "references": [
+        "https://en.wikipedia.org/wiki/Hendecasyllable",
+        "https://en.wikipedia.org/wiki/Catullus_13",
+        "https://play.google.com/books/reader?id=kgJLAQAAMAAJ&hl=en&pg=GBS.PR7",
+        "https://en.wikisource.org/wiki/Translation:Catullus_13"
+    ],
+    "original_language": "classical latin",
+    "author": "Gaius Valerius Catullus",
+    "meter": "hendecasyllable",
+    "original": "Cenabis bene, mi Fabulle, apud me paucis, si tibi di favent, diebus, si tecum attuleris bonam atque magnam cenam, non sine candida puella et vino et sale et omnibus cachinnis.  Haec si, inquam, attuleris, venuste noster, cenabis bene; nam tui Catulli plenus sacculus est aranearum.  Sed contra accipies meros amores, seu quid suavius elegantiusve est: nam unguentum dabo, quod meae puellae donarunt Veneres Cupidinesque; quod tu cum olfacies, deos rogabis totum ut te faciant, Fabulle, nasum.",
+    "verses_as_feet" : [
+    ]
+}
