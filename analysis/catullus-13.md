@@ -23,7 +23,7 @@ quod tu cum olfacies, deos rogabis totum ut te faciant, Fabulle, nasum.
 x may be `-u` or `--` or `u-`
 
 ### Phalaecian
-`xx-uu-u-u-x`
+`xx | -uu-u-u-x`
 
 ### Alcaic
 `x-u-x-uu-u-`
