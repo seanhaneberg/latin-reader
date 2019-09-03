@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdb1922f.chunk.css",
-    "main.js": "/static/js/main.b0ebc41f.chunk.js",
-    "main.js.map": "/static/js/main.b0ebc41f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.80f936c4.js",
-    "runtime~main.js.map": "/static/js/runtime~main.80f936c4.js.map",
-    "static/js/2.03a0c522.chunk.js": "/static/js/2.03a0c522.chunk.js",
-    "static/js/2.03a0c522.chunk.js.map": "/static/js/2.03a0c522.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fcae6557335b857a9420dae853ffb1da.js": "/precache-manifest.fcae6557335b857a9420dae853ffb1da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cdb1922f.chunk.css.map": "/static/css/main.cdb1922f.chunk.css.map"
+    "main.css": "/latin-reader/static/css/main.cdb1922f.chunk.css",
+    "main.js": "/latin-reader/static/js/main.2b977f17.chunk.js",
+    "main.js.map": "/latin-reader/static/js/main.2b977f17.chunk.js.map",
+    "runtime~main.js": "/latin-reader/static/js/runtime~main.d53a8caf.js",
+    "runtime~main.js.map": "/latin-reader/static/js/runtime~main.d53a8caf.js.map",
+    "static/js/2.03a0c522.chunk.js": "/latin-reader/static/js/2.03a0c522.chunk.js",
+    "static/js/2.03a0c522.chunk.js.map": "/latin-reader/static/js/2.03a0c522.chunk.js.map",
+    "index.html": "/latin-reader/index.html",
+    "precache-manifest.12e3a760d7d1030f80c7b127c74aa80b.js": "/latin-reader/precache-manifest.12e3a760d7d1030f80c7b127c74aa80b.js",
+    "service-worker.js": "/latin-reader/service-worker.js",
+    "static/css/main.cdb1922f.chunk.css.map": "/latin-reader/static/css/main.cdb1922f.chunk.css.map"
   }
 }
