@@ -1,0 +1,14 @@
+{
+    "name": "Gai Valeri Catulli Liber XIII",
+    "references": [
+        "https://en.wikipedia.org/wiki/Hendecasyllable",
+        "https://en.wikipedia.org/wiki/Catullus_13",
+        "https://play.google.com/books/reader?id=kgJLAQAAMAAJ&hl=en&pg=GBS.PR7",
+        "https://en.wikisource.org/wiki/Translation:Catullus_13"
+    ],
+    "original_language": "classical latin",
+    "author": "Gaius Valerius Catullus",
+    "meter": "hendecasyllable",
+    "original": "Cenabis bene, mi Fabulle, apud me paucis, si tibi di favent, diebus",
+    "literal_translation":"You will eat well, my Fabullus, with me in a couple--if the gods favor you--days."
+}
