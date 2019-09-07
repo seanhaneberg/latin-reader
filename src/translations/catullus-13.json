@@ -10,5 +10,109 @@
     "author": "Gaius Valerius Catullus",
     "meter": "hendecasyllable",
     "original": "Cenabis bene, mi Fabulle, apud me paucis, si tibi di favent, diebus",
-    "literal_translation":"You will eat well, my Fabullus, with me in a couple--if the gods favor you--days."
+    "literal_translation": "You will eat well, my Fabullus, with me in a couple--if the gods favor you--days.",
+    "translations": [
+        {
+            "starts": [0],
+            "phrases": ["Cenabis"],
+            "translation": "You will eat",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["Cenabis bene"],
+            "translation": "You will eat well",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["mi"],
+            "translation": "my",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["Fabulle"],
+            "translation": "Fabullus",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["mi Fabulle"],
+            "translation": "my Fabullus",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["apud"],
+            "translation": "with",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["me"],
+            "translation": "me",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["apud me"],
+            "translation": "with me",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["paucis"],
+            "translation": "a couple",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["diebus"],
+            "translation": "days",
+            "explaination": ""
+        },
+        {
+            "starts": [0, 0],
+            "phrases": ["apud me paucis", "diebus"],
+            "translation": "with me in a couple days",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["si"],
+            "translation": "if",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["tibi"],
+            "translation": "to you",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["di"],
+            "translation": "the gods",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["favent"],
+            "translation": "they favor",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["di favent"],
+            "translation": "the gods favor",
+            "explaination": ""
+        },
+        {
+            "starts": [0],
+            "phrases": ["si tibi di favent"],
+            "translation": "the gods favor",
+            "explaination": ""
+        }
+    ]
 }
